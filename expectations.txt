@@ -2,3 +2,6 @@ I expect to learn a lot on how to use Git and Github so I can collaborate seamle
 I hope that the HTML and CSS concepts that I learned will be refreshed in this course. I hope that
 I will learn more with regards to Web Programming in general, understand its key concepts and will be 
 able to create a web apllication in the future.
+
+Hello this is from Alex. I agree with your points because I expect the same in this course.
+I will push this branch :)
